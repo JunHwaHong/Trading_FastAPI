@@ -1,0 +1,11 @@
+hong9201@gmail.com
+awnsghk331!!
+
+[End point]
+https://paper-api.alpaca.markets
+
+[API Key ID]
+PKI228VJLXNCT7YPL3WU
+
+[Secret Key]
+cWDqUo2vT9XWqiApUNCg4IZtrxsdzjywOF9DbP8G
